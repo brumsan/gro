@@ -39,3 +39,7 @@ Sidebars
 ________
 
 We’ve built in two different sidebars. One for the homepage and one for the other pages. Add widgets to them.
+
+
+
+Hej, Detta är Aron!
