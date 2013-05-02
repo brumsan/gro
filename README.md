@@ -45,3 +45,5 @@ We’ve built in two different sidebars. One for the homepage and one for the ot
 Hej, Detta är Aron!
 
 Å här va Anton!
+
+Och här är Daniel!
